@@ -48,7 +48,7 @@ This section is for getting started with Kue server on your development environm
 1. **Clone the repository**
 
 ```
-git clone https://github.com/gdo-enablers/dan-ref-data-svc-me.git
+git clone https://github.com/ankitmalikfun/pickles_test.git
 ```
 
 2. **Configure app**
